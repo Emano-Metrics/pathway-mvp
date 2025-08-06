@@ -1,0 +1,12 @@
+{
+  "keys": [
+    {
+      "kty": "RSA",
+      "e": "AQAB",
+      "use": "sig",
+      "kid": "emano-key-1",
+      "alg": "RS256",
+      "n": "qIWBIXTnw-9QIz3-FafLMDsgNYAaPBWjQX-JkDGHbr58RCRg53HanzQn3hGgOuT5CVYy6QxqLzQ8eGILsDkKaCxxPVqXeC9_7OEbC21u5iOqCaDPKPN-89n3Jl6XAzFYhqrL49Ju2190VfLHlDAzjiYDDxp78o8JfkvroIvQpxQEp5JKZ6vOsF7Vy2TSZxljGrh1tED-F1-ajXjPGe_3T7GBimNwZxBDEF9ic8TUotHNX46-ICYdmhJKhKKb4BnSvfeLlKAl_CuRtZ7F-fnu6a8YD9XMQ6cWrrdlYBnfkK6WkWKd2lEZhPaDtNtSq8FngU4jKwUF8h0zjYq3bJ5WTQ"
+    }
+  ]
+}
